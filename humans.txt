@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Zoran Kabakci	zozikabakci@gmail.com	zoziker
 
 # THANKS
 
